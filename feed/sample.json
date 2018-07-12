@@ -1,1305 +1,3162 @@
+
 {
-  "total": 100,
-  "entries": [
-    {
-      "title": "Wolf Creek",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/128/61/12861-PosterArt-ec32a81986a45eac7e080112075ab466.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "No Activity",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/106/36/10636-PosterArt-9add943c5e62c2d89f6d31458d33508a.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Billions",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/117/25/11725-PosterArt-deecf8dbd786dfa2d964413b0bf83726.jpg",
-          "width": 720,
-          "height": 1080
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "Better Call Saul",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/175/7/1757-PosterArt-fc0e2a5b18d4a662717f3cbb1827871d.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Younger",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/143/24/14324-PosterArt-a0168953a3b93681dbd60c7bcc50a0af.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Ash vs Evil Dead",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/102/56/10256-PosterArt-1a57bf03033531becb18f2ad0c755f5a.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Transparent",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/108/7/1087-PosterArt-d19ff1330226ba26e4eb1def7a465f99.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "Power",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/512/1/5121-PosterArt-8957df8b3f89afc2809d068a9bf7f667.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "UnREAL",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/939/3/9393-PosterArt-6e5b82950cfce05fef0a50ff7a69474a.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "The Last Ship",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/197/7/1977-PosterArt-a2d3a9bb0ba1e05d26b29aed143715ce.jpg",
-          "width": 500,
-          "height": 750
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "The Girlfriend Experience",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/128/54/12854-PosterArt-683f17d4770e2f0febab93cf251bb1ee.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "11.22.63",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/120/40/12040-PosterArt-2a08532d986336771ea5a70658b6a957.jpg",
-          "width": 400,
-          "height": 600
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "Roadies",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/132/42/13242-PosterArt-dfd9c3a0fa5db6e2e38b62e7fedcaf47.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "Sherlock: The Abominable Bride",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/115/93/11593-PosterArt-33274b61ab0cb0e19cb7bff35824efb9.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "iZombie",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/197/5/1975-PosterArt-5c0ac7935dfb577df222814c2fbc1edb.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Containment",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/129/01/12901-PosterArt-b18cb05ecda13ea274c4e32a2d6ea427.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "Flesh and Bone",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/102/57/10257-PosterArt-5846b1f514837b29477d566df3f713d2.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "The Circus: Inside The Greatest Political Show On Earth",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/133/40/13340-PosterArt-f5edb5d566e3d5375d7caad82e7839f5.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "Community",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/109/3/1093-PosterArt-69b57818da7152ce84d22dc72513ae4e.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2009
-    },
-    {
-      "title": "Mozart in the Jungle",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/144/8/1448-PosterArt-0b4461ee688948ab6efa1ff2d22220df.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "Blunt Talk",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/127/71/12771-PosterArt-d79951a3a8662abf816e6446c2b725e0.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Angie Tribeca ",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/131/66/13166-PosterArt-d2a89999fa2d84015ba82a979e0ed796.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "Deutschland 83",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/108/40/10840-PosterArt-a2fe05c4a0e1fdec049c8a35f8cd26a1.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Dice",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/128/02/12802-PosterArt-e0890393f2bf08c3da51479626c45134.jpeg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "Billy & Billie",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/108/68/10868-PosterArt-84217c5c12e1d8747873d4ca916fbad5.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 0
-    },
-    {
-      "title": "Mad Dogs",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/127/72/12772-PosterArt-4217136f78c400592a91cb7a2f4f4bd6.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "Gay for Play Game Show Starring RuPaul",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/143/61/14361-PosterArt-db21d9a7cd3362d1d9069d7c1d9aa554.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "Acquitted",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/108/70/10870-PosterArt-c37e8232f327b27bc62043ea627ca528.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "The Following",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/197/3/1973-PosterArt-356d876eeca0713c592053c6283aa254.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2013
-    },
-    {
-      "title": "U2: Live in Paris",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/963/194/963194-PosterArt-9d1f4f28bb94e5e0f06e83d1216a8e30.jpg",
-          "width": 559,
-          "height": 828
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Trollied",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/173/2/1732-PosterArt-85cc2547b4aca4a5dd38e332f602a3c3.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2011
-    },
-    {
-      "title": "Gigolos",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/120/08/12008-PosterArt-fd5ad91e4054960b00e45e6d63b0c3c9.jpeg",
-          "width": 720,
-          "height": 1080
-        }
-      },
-      "releaseYear": 2011
-    },
-    {
-      "title": "Significant Mother",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/144/42/14442-PosterArt-26b21287841c80c0cafa1a668b5c747d.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Under The Gun",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/115/3873/1153873-PosterArt-93b3333a696042bf7da06b874af771d8.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "Lost Girl",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/109/2/1092-PosterArt-c79b7c95666d7792a3c60e4407962f81.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2010
-    },
-    {
-      "title": "Plonk",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/192/3/1923-PosterArt-f4aba43064f61d1668840c4d0df91565.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "Eye Candy",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/108/72/10872-PosterArt-25f67e1932dffe23acee016241ef2610.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "HAPPYish",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/119/98/11998-PosterArt-c937329b04129ead97d0503818b5e54a.jpg",
-          "width": 720,
-          "height": 1080
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Friends",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/198/3/1983-PosterArt-53b54be2659ca7905f56d67f6f3df803.jpg",
-          "width": 550,
-          "height": 825
-        }
-      },
-      "releaseYear": 1994
-    },
-    {
-      "title": "Mad Max: Fury Road",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/958/725/958725-PosterArt-96c5bbb6e15269f5b5cd9bc7801de1d9.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Twin Peaks",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/167/0/1670-PosterArt-9b61ff8d9260436f911665f1312742bd.jpg",
-          "width": 500,
-          "height": 750
-        }
-      },
-      "releaseYear": 1990
-    },
-    {
-      "title": "The Hunger Games",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/843/787/843787-PosterArt-dafc8872838e5d0f806c895b62134021.jpg",
-          "width": 800,
-          "height": 1200
-        }
-      },
-      "releaseYear": 2012
-    },
-    {
-      "title": "The Hunger Games: Catching Fire",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/843/788/843788-PosterArt-b4e53eeb7e3e560a93c4033f3c791945.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2013
-    },
-    {
-      "title": "The Hunger Games: Mockingjay - Part 1",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/376/199/376199-PosterArt-0929f0c32637703dc8ba857e81154bc9.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "The Hunger Games: Mockingjay - Part 2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/109/8333/1098333-PosterArt-c72002fd42ec6f2cfc53004a59b432be.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Frasier",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/120/27/12027-PosterArt-3f8c0625d76d30c9a583c647e4c29c67.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 1994
-    },
-    {
-      "title": "San Andreas",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/958/726/958726-PosterArt-46061b8e3d5b4c8fd690d045ee524d0f.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Dexter",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/160/6/1606-PosterArt-8de75e6dae6678b82aa5093f204931aa.jpg",
-          "width": 671,
-          "height": 1007
-        }
-      },
-      "releaseYear": 2006
-    },
-    {
-      "title": "Paper Planes",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/376/206/376206-PosterArt-fc212c3beeab2c066977541a2312d732.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Beauty and the Beast",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/139/76/13976-PosterArt-6d33e74aa9ec685bf96a3e692521c3ae.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2012
-    },
-    {
-      "title": "Seinfeld",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/156/39/15639-PosterArt-4f0ab756eab01a0805b7bed4601b96ec.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 1989
-    },
-    {
-      "title": "Self/less",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/103/5943/1035943-PosterArt-24bf05e844865af039feafa36f0a87bd.jpg",
-          "width": 1400,
-          "height": 2100
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "Fringe",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/198/4/1984-PosterArt-284e8c935ea5f69e62fc1fc8bd17343f.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2008
-    },
-    {
-      "title": "How to Lose a Guy in 10 Days",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/382/999/98fe3aee68fff2ce6e008019c789e22e.jpg",
-          "width": 700,
-          "height": 1050
-        }
-      },
-      "releaseYear": 2003
-    },
-    {
-      "title": "RuPaul's Drag Race",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/915/4/9154-PosterArt-140aeb530d9e317778581855d31459db.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 0
-    },
-    {
-      "title": "The Time Traveler's Wife",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/418/042/d8548579cfa853a7c5bc8f155790a310.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2008
-    },
-    {
-      "title": "The Nanny",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/110/0/1100-PosterArt-28bef45866329f97901766f213b145ea.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 1993
-    },
-    {
-      "title": "The Best of Me",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/376/200/376200-PosterArt-0d02eaf47c7a9b050909420eb81ff569.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "The Case Of: JonBenet Ramsey",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/160/33/16033-PosterArt-3106fcae6ce5fbe338bc3ae82fc42b25.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2016
-    },
-    {
-      "title": "American Sniper",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/952/708/952708-PosterArt-d3beb37b66819c3f6281d7accc3020d6.jpg",
-          "width": 1400,
-          "height": 2100
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Geordie Shore",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/153/7/1537-PosterArt-57cb90d82c7f6a6b0c69752059c66e5b.jpg",
-          "width": 800,
-          "height": 1200
-        }
-      },
-      "releaseYear": 2011
-    },
-    {
-      "title": "Victoria ",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/119/2937/1192937-PosterArt-2f0c0a5bfaec9ce6e2662283f9c660b2.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Sicario",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/105/3102/1053102-PosterArt-54c83e37dfc1500b61ac3f37b3e062a4.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Hey Duggee",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/125/42/12542-PosterArt-4290c6751c88bc2384169dda62934e34.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "John Wick",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/376/201/376201-PosterArt-4f91ac739ae5147a51ae3abc78d55f2d.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "Freakonomics",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/371/739/371739-PosterArt-ba6bb08bb67b565aaa35ba59e15bdf7d.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2009
-    },
-    {
-      "title": "Troll Hunter",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/393/966/393966-PosterArt-72da04b296c0796a20540205eaa4fce0.jpg",
-          "width": 500,
-          "height": 750
-        }
-      },
-      "releaseYear": 2011
-    },
-    {
-      "title": "Spooks: The Greater Good",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/119/3835/1193835-PosterArt-faaba78b86d44c352d258d7189d485f6.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Inside The Human Body",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/128/10/12810-PosterArt-a3db21e3417f03062e9841da391ae8cc.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 0
-    },
-    {
-      "title": "Being Erica",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/100/3/1003-PosterArt-c9a263c56c91eb3e58a5e073e020c566.jpg",
-          "width": 1024,
-          "height": 1536
-        }
-      },
-      "releaseYear": 2009
-    },
-    {
-      "title": "Jenny's Wedding",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/103/5939/1035939-PosterArt-8513e9e2dcfc6845adbd6d1fdd1a5f5f.jpg",
-          "width": 1400,
-          "height": 2100
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "Ringer",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/122/87/12287-PosterArt-19484385f08dd0d6b334779512c494a3.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2011
-    },
-    {
-      "title": "Life of Crime",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/118/0648/1180648-PosterArt-80d56bbb6635cff7a49ad2287711c378.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2013
-    },
-    {
-      "title": "The Carrie Diaries",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/198/9/1989-PosterArt-0aaf7d4d4d1014e393671c1c08365946.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2013
-    },
-    {
-      "title": "Drop Dead Diva",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/392/315/c90b83dbe5270d6560d0b908aa2090cf.jpg",
-          "width": 720,
-          "height": 1080
-        }
-      },
-      "releaseYear": 2009
-    },
-    {
-      "title": "Leon: The Professional",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/119/3838/1193838-PosterArt-7328f58d3e64953a540a3543a5cd5c39.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 1994
-    },
-    {
-      "title": "A Lego Brickumentary",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/109/8345/1098345-PosterArt-f0f207e02947ca76d9f9b238aea54dc1.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "The Inbetweeners",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/200/0/2000-PosterArt-835be2285f9301293d380db580f8ad96.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2008
-    },
-    {
-      "title": "Just Friends",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/375/664/375664-PosterArt-d11924fb0752525039b1168197030753.jpg",
-          "width": 500,
-          "height": 750
-        }
-      },
-      "releaseYear": 2005
-    },
-    {
-      "title": "Ernest & Celestine",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/928/838/928838-PosterArt-c3d8ac708b712062e519a3b106469595.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "Star Trek: Deep Space Nine",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/160/3/1603-PosterArt-53b8c03e1244053c1c58905dd6738e24.jpg",
-          "width": 1001,
-          "height": 1501
-        }
-      },
-      "releaseYear": 1993
-    },
-    {
-      "title": "Valiant",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/885/233/885233-PosterArt-e79ac1b3fbb5f8677094f5ae8adca301.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2005
-    },
-    {
-      "title": "The LA Complex",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/115/38/11538-PosterArt-3fa112d2e653653fcfc9fe39b34ae1df.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2012
-    },
-    {
-      "title": "Hannibal",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/109/1/1091-PosterArt-bbcf03acc18eebfc343754b05f39738f.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2013
-    },
-    {
-      "title": "The Voices",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/103/5938/1035938-PosterArt-4131ef088343f85d686806f2b80253c1.jpg",
-          "width": 1400,
-          "height": 2100
-        }
-      },
-      "releaseYear": 2013
-    },
-    {
-      "title": "Sex and the City 2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/328/010/092e34afe0648a42cf12beb2d7557a65.jpg",
-          "width": 500,
-          "height": 750
-        }
-      },
-      "releaseYear": 2009
-    },
-    {
-      "title": "Nasty Baby",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/110/1174/1101174-PosterArt-c1fe5d416b9e410b8726893272e8711a.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "Tracers",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/958/724/958724-PosterArt-28f056d80c744f0ca9418250db9e4c61.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2015
-    },
-    {
-      "title": "The Shield",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/109/8/1098-PosterArt-5f2fbc7f02c02a525ab9f3e95008f3fc.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2002
-    },
-    {
-      "title": "The Review With Forrest MacNeil",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/126/88/12688-PosterArt-e8b36ef2902246538b9bbfdc380e5a3a.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "I Am Legend",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/375/797/375797-PosterArt-f456379f7c61bcd9c8f9fc781f4bce28.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2008
-    },
-    {
-      "title": "At Home With Julia",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/120/28/12028-PosterArt-0c087d1f4f12d21cda838f53cba2c8a5.jpg",
-          "width": 720,
-          "height": 1080
-        }
-      },
-      "releaseYear": 0
-    },
-    {
-      "title": "American Dreams",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/971/6/9716-PosterArt-d7983da60a5d146f87f0bf5b4939727a.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2002
-    },
-    {
-      "title": "How To Train Your Dragon",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/110/1196/1101196-PosterArt-c47d98ddca64ef18cf79c78d6ab8b3ad.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2010
-    },
-    {
-      "title": "Star Trek: Enterprise",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/120/02/12002-PosterArt-90648d08f69e94d44d6cb4de2cdda757.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 0
-    },
-    {
-      "title": "Ages Of Love",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/372/670/372670-PosterArt-0c1d61510fdf59ff32299038e669db44.jpg",
-          "width": 350,
-          "height": 525
-        }
-      },
-      "releaseYear": 2010
-    },
-    {
-      "title": "Prisoners",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/408/331/408331-PosterArt-75cb706fded100b4f28cc6b1a007fc1c.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2013
-    },
-    {
-      "title": "Almost Royal",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/124/27/12427-PosterArt-92cd41fc035a71a5e5f6cc7569b4266e.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "Danny Collins",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "movie",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/999/667/999667-PosterArt-65e6f88ede8bdcdad6d4d4f1549936ee.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2014
-    },
-    {
-      "title": "The Wrong Mans",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "programType": "series",
-      "images": {
-        "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/124/31/12431-PosterArt-f7d91329c70a7fa206e838423caa31bd.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      "releaseYear": 2013
-    }
-  ]
+  "kind": "Listing",
+  "data": {
+    "modhash": "",
+    "dist": 26,
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "We're implementing user flairs for people with experience studying or working in the fields of computer science and philosophy. \n\nFlairs are marked blue for philosophy and red for computer science, and shaded according to one's background. The text of the flair will describe your specialty - \"machine learning\" or \"political philosophy\" for instance.\n\n* Professional (dark flair): the user derives the bulk of their income through computer science or philosophy work, either as an instructor of some sort, a working professional (e.g. applied ethicist or data scientist), or through the publication of papers in reputable journals;\n\n* Graduate (medium flair): the user is enrolled in, or has completed, a graduate program in philosophy or computer science or a closely related field;\n\n* Undergrad (light flair): the user is enrolled in, or has completed, an undergraduate program in philosophy or computer science;\n\nThere are no special rights or privileges for users with flair. \n\nIf you would like a flair, state your area of specialty in the comments, or message the mods.",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "New user flairs",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_5ju0g7",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 4,
+          "domain": "self.AIethics",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 4,
+          "approved_by": null,
+          "thumbnail": "self",
+          "edited": 1482605567.0,
+          "author_flair_css_class": "csgrad",
+          "author_flair_richtext": [
+            {
+              "e": "text",
+              "t": "software engineering"
+            }
+          ],
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1482480559.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_c0pwk",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "richtext",
+          "contest_mode": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We&amp;#39;re implementing user flairs for people with experience studying or working in the fields of computer science and philosophy. &lt;/p&gt;\n\n&lt;p&gt;Flairs are marked blue for philosophy and red for computer science, and shaded according to one&amp;#39;s background. The text of the flair will describe your specialty - &amp;quot;machine learning&amp;quot; or &amp;quot;political philosophy&amp;quot; for instance.&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;p&gt;Professional (dark flair): the user derives the bulk of their income through computer science or philosophy work, either as an instructor of some sort, a working professional (e.g. applied ethicist or data scientist), or through the publication of papers in reputable journals;&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Graduate (medium flair): the user is enrolled in, or has completed, a graduate program in philosophy or computer science or a closely related field;&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Undergrad (light flair): the user is enrolled in, or has completed, an undergraduate program in philosophy or computer science;&lt;/p&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;There are no special rights or privileges for users with flair. &lt;/p&gt;\n\n&lt;p&gt;If you would like a flair, state your area of specialty in the comments, or message the mods.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": true,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": "software engineering",
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": "moderator",
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "5ju0g7",
+          "report_reasons": null,
+          "author": "UmamiSalami",
+          "num_crossposts": 0,
+          "num_comments": 8,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/5ju0g7/new_user_flairs/",
+          "whitelist_status": null,
+          "stickied": true,
+          "url": "https://www.reddit.com/r/AIethics/comments/5ju0g7/new_user_flairs/",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1482451759.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Suffering Subroutines: On the Humanity of Making a Computer that Feels Pain \u2014 Meghan Winsby [pdf]",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8xp9e2",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 2,
+          "domain": "iacap.org",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 2,
+          "approved_by": null,
+          "thumbnail": "default",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1531259227.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_8pk3m",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8xp9e2",
+          "report_reasons": null,
+          "author": "The_Ebb_and_Flow",
+          "num_crossposts": 0,
+          "num_comments": 1,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8xp9e2/suffering_subroutines_on_the_humanity_of_making_a/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "http://www.iacap.org/proceedings_IACAP13/paper_48.pdf",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1531230427.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Why the three laws of robotics do not work (2018) \u2014 Chris Stokes [pdf]",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8wrvuc",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 2,
+          "domain": "ijrei.com",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 2,
+          "approved_by": null,
+          "thumbnail": "default",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1530982490.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_8pk3m",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8wrvuc",
+          "report_reasons": null,
+          "author": "The_Ebb_and_Flow",
+          "num_crossposts": 0,
+          "num_comments": 1,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8wrvuc/why_the_three_laws_of_robotics_do_not_work_2018/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.ijrei.com/controller/client/Why%20the%20three%20laws%20of%20robotics%20do%20not%20work.pdf",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1530953690.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "The\u00a0[EthicsNet Guardians' Challenge](https://singularityu.us4.list-manage.com/track/click?u=cf8d60100fb6d439c559221f0&amp;id=33110ba26b&amp;e=4f95f866cf)\u00a0is live!\u00a0\n\nWe're asking the public for help on how we can best to teach machines about kindness, in creating a dataset of pro-social behaviours. This could be an important step\u00a0on\u00a0the road to AI safety, making various proposed algorithms trainable and deployable.\n\nThere is a pot of $10,000 in prizes available. We would be very grateful indeed for your ideas, and\u00a0if you could please help to spread the word for us. It has been a long journey just getting to this point. Thank you so much!",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "EthicsNet Challenge \u2013 How to build a dataset of kind behaviors for AI?",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8w67km",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 3,
+          "domain": "self.AIethics",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 3,
+          "approved_by": null,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "self",
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1530778313.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_sweap",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;The\u00a0&lt;a href=\"https://singularityu.us4.list-manage.com/track/click?u=cf8d60100fb6d439c559221f0&amp;amp;id=33110ba26b&amp;amp;e=4f95f866cf\"&gt;EthicsNet Guardians&amp;#39; Challenge&lt;/a&gt;\u00a0is live!\u00a0&lt;/p&gt;\n\n&lt;p&gt;We&amp;#39;re asking the public for help on how we can best to teach machines about kindness, in creating a dataset of pro-social behaviours. This could be an important step\u00a0on\u00a0the road to AI safety, making various proposed algorithms trainable and deployable.&lt;/p&gt;\n\n&lt;p&gt;There is a pot of $10,000 in prizes available. We would be very grateful indeed for your ideas, and\u00a0if you could please help to spread the word for us. It has been a long journey just getting to this point. Thank you so much!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/WBzHWexesT3_iGaZ3CjL3q67KOWhc3BgIn-aBGfth0E.jpg?s=af9ca4b3f04e3337dea1a6d6f6ff0ea5",
+                  "width": 1280,
+                  "height": 720
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/WBzHWexesT3_iGaZ3CjL3q67KOWhc3BgIn-aBGfth0E.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=e1bb34546cbb6979f08ffc9899b20a94",
+                    "width": 108,
+                    "height": 60
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/WBzHWexesT3_iGaZ3CjL3q67KOWhc3BgIn-aBGfth0E.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=331ed9fdf01d70ed34c381bb27c32ba8",
+                    "width": 216,
+                    "height": 121
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/WBzHWexesT3_iGaZ3CjL3q67KOWhc3BgIn-aBGfth0E.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=071561b59064dcacf2702814edc138d5",
+                    "width": 320,
+                    "height": 180
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/WBzHWexesT3_iGaZ3CjL3q67KOWhc3BgIn-aBGfth0E.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=7fe4893a945b72a72ac0498044d48634",
+                    "width": 640,
+                    "height": 360
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/WBzHWexesT3_iGaZ3CjL3q67KOWhc3BgIn-aBGfth0E.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;s=cb0c5390aa21bce2f6f4887f7f56794f",
+                    "width": 960,
+                    "height": 540
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/WBzHWexesT3_iGaZ3CjL3q67KOWhc3BgIn-aBGfth0E.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;s=a3a22e169546ef38d6d1ff7c6fba169b",
+                    "width": 1080,
+                    "height": 607
+                  }
+                ],
+                "variants": {},
+                "id": "6qkF4yDJEIb7UWBkddoXyiWSxfNTQxTsWPFgxJerftY"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "richtext",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8w67km",
+          "report_reasons": null,
+          "author": "Pronoia2-4601",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8w67km/ethicsnet_challenge_how_to_build_a_dataset_of/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.reddit.com/r/AIethics/comments/8w67km/ethicsnet_challenge_how_to_build_a_dataset_of/",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1530749513.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Artificial Free Will | Crucial Considerations",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 93,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8w571q",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 2,
+          "domain": "crucialconsiderations.org",
+          "media_embed": {},
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 2,
+          "approved_by": null,
+          "thumbnail": "https://b.thumbs.redditmedia.com/IuREieJVzw6lH91lBKDamwBN-U_rqWl6R6EsXwvbbvw.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1530768625.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_8pk3m",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/JSOgc3MBrqYqGrWonYe1xq4cUBVwgtCnJCWky9txnDQ.jpg?s=665bb73c5bfd4a60b35b83d4f51cd67c",
+                  "width": 300,
+                  "height": 200
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/JSOgc3MBrqYqGrWonYe1xq4cUBVwgtCnJCWky9txnDQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=7d4cbd3eebee1a36727ac265b7cb6176",
+                    "width": 108,
+                    "height": 72
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/JSOgc3MBrqYqGrWonYe1xq4cUBVwgtCnJCWky9txnDQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=be3fcded43a434b3b911c643cd206b14",
+                    "width": 216,
+                    "height": 144
+                  }
+                ],
+                "variants": {},
+                "id": "yEUNXjLKuTP1fOKy7i30jdOFF2dSFsVlZMS4dwtgzMg"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8w571q",
+          "report_reasons": null,
+          "author": "The_Ebb_and_Flow",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8w571q/artificial_free_will_crucial_considerations/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "http://crucialconsiderations.org/ethics/artificial-free-will/",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1530739825.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "Hello everyone,\n\nI am a law student and in couple of months I will start to write my optional mid-studies thesis. I would like to tackle problems in the field of AI from legal point of view, however I am suffering from general lack of thesis.\n\nI am mostly looking for problems related to intellectual property, if not then secondly related to legal responsibility of AI (but no self-driving cars, it has been beaten to death already) and lastly about application of AI in judicial proceedings.\n\nHowever I am opened to any suggestions you might have (facial recognition, **ethical problems...***). Anything that you feel that this field faces or might face in near future from legal point of view. Did you already ran into some related problems?\n\nFeel free to make it as technical as possible, for what it's worth (honestly not much) since I am interested in this \"intersection\" I am familiar with some of the underlying concepts, can code in python and took several AP courses in maths and stats, so bring it on bois.\n\nThank you in advance for any suggestions or tips you might have for me, it would really help my studies.\n\n\nEdit: I don't want to end up on /r/choosingbeggars but preferably it should be something \"new\" (hence the slefdriving cars) and preferably some really specific problems that I could form my thesis around. But of course any insight will be appreciated. And yes, you will get credit in the thesis.",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "[Request] Legal (and ethical) issues related to AI",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8t368d",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 4,
+          "domain": "self.AIethics",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 4,
+          "approved_by": null,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1529717452.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_y8wuy",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello everyone,&lt;/p&gt;\n\n&lt;p&gt;I am a law student and in couple of months I will start to write my optional mid-studies thesis. I would like to tackle problems in the field of AI from legal point of view, however I am suffering from general lack of thesis.&lt;/p&gt;\n\n&lt;p&gt;I am mostly looking for problems related to intellectual property, if not then secondly related to legal responsibility of AI (but no self-driving cars, it has been beaten to death already) and lastly about application of AI in judicial proceedings.&lt;/p&gt;\n\n&lt;p&gt;However I am opened to any suggestions you might have (facial recognition, &lt;strong&gt;ethical problems...&lt;/strong&gt;*). Anything that you feel that this field faces or might face in near future from legal point of view. Did you already ran into some related problems?&lt;/p&gt;\n\n&lt;p&gt;Feel free to make it as technical as possible, for what it&amp;#39;s worth (honestly not much) since I am interested in this &amp;quot;intersection&amp;quot; I am familiar with some of the underlying concepts, can code in python and took several AP courses in maths and stats, so bring it on bois.&lt;/p&gt;\n\n&lt;p&gt;Thank you in advance for any suggestions or tips you might have for me, it would really help my studies.&lt;/p&gt;\n\n&lt;p&gt;Edit: I don&amp;#39;t want to end up on &lt;a href=\"/r/choosingbeggars\"&gt;/r/choosingbeggars&lt;/a&gt; but preferably it should be something &amp;quot;new&amp;quot; (hence the slefdriving cars) and preferably some really specific problems that I could form my thesis around. But of course any insight will be appreciated. And yes, you will get credit in the thesis.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8t368d",
+          "report_reasons": null,
+          "author": "PrettyMuchJudgeFudge",
+          "num_crossposts": 0,
+          "num_comments": 2,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8t368d/request_legal_and_ethical_issues_related_to_ai/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.reddit.com/r/AIethics/comments/8t368d/request_legal_and_ethical_issues_related_to_ai/",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1529688652.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "IBM\u2019s machine argues, pretty convincingly, with humans",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 78,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8s95zd",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 6,
+          "domain": "bbc.co.uk",
+          "media_embed": {},
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 6,
+          "approved_by": null,
+          "thumbnail": "https://b.thumbs.redditmedia.com/QflvcwK7Y9HRgtbaQfs_FNxJ8O4IVQMx3r5VC2UIKbc.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1529446291.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_8pk3m",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/TUkLuFvX1oeLWP-enGDfkF5UAKjJXsQk5xGLsgZOzmw.jpg?s=fea3f68c69cc1d829a0b5860e2645898",
+                  "width": 1024,
+                  "height": 576
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/TUkLuFvX1oeLWP-enGDfkF5UAKjJXsQk5xGLsgZOzmw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=beb8573d72b569e6e0a2a1ffe80a1015",
+                    "width": 108,
+                    "height": 60
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/TUkLuFvX1oeLWP-enGDfkF5UAKjJXsQk5xGLsgZOzmw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=89782516f9af94a7e9234c28323c6442",
+                    "width": 216,
+                    "height": 121
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/TUkLuFvX1oeLWP-enGDfkF5UAKjJXsQk5xGLsgZOzmw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=076db139593256f441b8a33d5529d10e",
+                    "width": 320,
+                    "height": 180
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/TUkLuFvX1oeLWP-enGDfkF5UAKjJXsQk5xGLsgZOzmw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=bb84e33ad40a05f883752277626b72bc",
+                    "width": 640,
+                    "height": 360
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/TUkLuFvX1oeLWP-enGDfkF5UAKjJXsQk5xGLsgZOzmw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;s=1311b45cc9e6c5fbd48ea6fe069fd6ab",
+                    "width": 960,
+                    "height": 540
+                  }
+                ],
+                "variants": {},
+                "id": "hkDfHGV0mwSbW_BvhCmYIpmvT_LUR1-8beo3KlNZQ3Q"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8s95zd",
+          "report_reasons": null,
+          "author": "The_Ebb_and_Flow",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8s95zd/ibms_machine_argues_pretty_convincingly_with/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "http://www.bbc.co.uk/news/technology-44531132",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1529417491.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "How many philosophers accept the orthogonality thesis ? Evidence from the PhilPapers survey",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8rjfbf",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 4,
+          "domain": "lesswrong.com",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 4,
+          "approved_by": null,
+          "thumbnail": "default",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1529185461.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_5ly3dw4",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8rjfbf",
+          "report_reasons": null,
+          "author": "ff29180d",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8rjfbf/how_many_philosophers_accept_the_orthogonality/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.lesswrong.com/posts/LdENjKB6G6fZDRZFw/how-many-philosophers-accept-the-orthogonality-thesis",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1529156661.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "A Contra AI FOOM Reading List",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8qrd3n",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 3,
+          "domain": "magnusvinding.com",
+          "media_embed": {},
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 3,
+          "approved_by": null,
+          "thumbnail": "https://b.thumbs.redditmedia.com/Rg7xLxa2JyNfQvQsbfnFwezEGK3t3mWDf0qeKe76Ggc.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1528914524.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_8pk3m",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/NMkx-PIcyw-_SgXcJW29S93JjkwRW4uHzJKN3M-IRyY.jpg?s=360ca0112ba481db40ac89c615dffdd7",
+                  "width": 200,
+                  "height": 200
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/NMkx-PIcyw-_SgXcJW29S93JjkwRW4uHzJKN3M-IRyY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=6e4fabb2d1d2bbd13e1e6eae662a3290",
+                    "width": 108,
+                    "height": 108
+                  }
+                ],
+                "variants": {},
+                "id": "w1PZLDa3K2bis6SxS4WQASMbUHQW21V4SQ0HQvru3vI"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8qrd3n",
+          "report_reasons": null,
+          "author": "The_Ebb_and_Flow",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8qrd3n/a_contra_ai_foom_reading_list/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://magnusvinding.com/2017/12/16/a-contra-ai-foom-reading-list/",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1528885724.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "What happens when our computers get smarter than we are? | Nick Bostrom",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 105,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8qlkji",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 2,
+          "domain": "youtube.com",
+          "media_embed": {
+            "content": "&lt;iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/MnT1xgZgkpk?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen&gt;&lt;/iframe&gt;",
+            "width": 600,
+            "scrolling": false,
+            "height": 338
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": {
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "version": "1.0",
+              "title": "What happens when our computers get smarter than we are? | Nick Bostrom",
+              "author_name": "TED",
+              "height": 338,
+              "width": 600,
+              "html": "&lt;iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/MnT1xgZgkpk?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen&gt;&lt;/iframe&gt;",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360,
+              "thumbnail_url": "https://i.ytimg.com/vi/MnT1xgZgkpk/hqdefault.jpg",
+              "type": "video",
+              "provider_name": "YouTube",
+              "author_url": "https://www.youtube.com/user/TEDtalksDirector"
+            },
+            "type": "youtube.com"
+          },
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {
+            "content": "&lt;iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/MnT1xgZgkpk?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen&gt;&lt;/iframe&gt;",
+            "width": 600,
+            "scrolling": false,
+            "media_domain_url": "https://www.redditmedia.com/mediaembed/8qlkji",
+            "height": 338
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 2,
+          "approved_by": null,
+          "thumbnail": "https://b.thumbs.redditmedia.com/eZy1hFj56QUoJexwSa1J9I4UcIcaRz1xZB9GTtHoSKU.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "rich:video",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1528858539.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_8pk3m",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/CJTBQzxFZDgpB0C8KhIJpqvzZ_7ZGbe-qtkinnNI5EI.jpg?s=72698abde300c3b78d938b338aff4d88",
+                  "width": 480,
+                  "height": 360
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/CJTBQzxFZDgpB0C8KhIJpqvzZ_7ZGbe-qtkinnNI5EI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=25faa33d055f934b2a77521810f637a7",
+                    "width": 108,
+                    "height": 81
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/CJTBQzxFZDgpB0C8KhIJpqvzZ_7ZGbe-qtkinnNI5EI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=b83e784ad5322840ed132c31ce34d4ab",
+                    "width": 216,
+                    "height": 162
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/CJTBQzxFZDgpB0C8KhIJpqvzZ_7ZGbe-qtkinnNI5EI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=a4a35a75c6b45a01feae91f53686fc9b",
+                    "width": 320,
+                    "height": 240
+                  }
+                ],
+                "variants": {},
+                "id": "eDvnR7NCwA6H7kIPuLUysdhKXCcK2G_8_qFq8ViR_Bg"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8qlkji",
+          "report_reasons": null,
+          "author": "The_Ebb_and_Flow",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8qlkji/what_happens_when_our_computers_get_smarter_than/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.youtube.com/watch?v=MnT1xgZgkpk",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1528829739.0,
+          "media": {
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "version": "1.0",
+              "title": "What happens when our computers get smarter than we are? | Nick Bostrom",
+              "author_name": "TED",
+              "height": 338,
+              "width": 600,
+              "html": "&lt;iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/MnT1xgZgkpk?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen&gt;&lt;/iframe&gt;",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360,
+              "thumbnail_url": "https://i.ytimg.com/vi/MnT1xgZgkpk/hqdefault.jpg",
+              "type": "video",
+              "provider_name": "YouTube",
+              "author_url": "https://www.youtube.com/user/TEDtalksDirector"
+            },
+            "type": "youtube.com"
+          },
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "People for the Ethical Treatment of Reinforcement Learners",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8qdi0u",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 6,
+          "domain": "petrl.org",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 6,
+          "approved_by": null,
+          "thumbnail": "default",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1528783372.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_8pk3m",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8qdi0u",
+          "report_reasons": null,
+          "author": "The_Ebb_and_Flow",
+          "num_crossposts": 0,
+          "num_comments": 2,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8qdi0u/people_for_the_ethical_treatment_of_reinforcement/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "http://petrl.org/",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1528754572.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Surveillance drones easier to get, widespread use soon?",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 78,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8prylu",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 2,
+          "domain": "qz.com",
+          "media_embed": {},
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 2,
+          "approved_by": null,
+          "thumbnail": "https://b.thumbs.redditmedia.com/BPrbjfFwLucfANV2LQgSae3f8pUyJx6cUApSaoSi-4M.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1528569193.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_1byf4lna",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/pW7FFUuScGHgberX91PnTF6OdIQm1BsZTNQ9_y-yq1Y.jpg?s=d1156ce88eaac060ec1926b1f825173b",
+                  "width": 1600,
+                  "height": 900
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/pW7FFUuScGHgberX91PnTF6OdIQm1BsZTNQ9_y-yq1Y.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=c5e278f30d3197ae4d5d7396e7f2250f",
+                    "width": 108,
+                    "height": 60
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/pW7FFUuScGHgberX91PnTF6OdIQm1BsZTNQ9_y-yq1Y.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=c2e6e04fe3968bed74d7a019941940ef",
+                    "width": 216,
+                    "height": 121
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/pW7FFUuScGHgberX91PnTF6OdIQm1BsZTNQ9_y-yq1Y.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=0394108a4874276d757335591baa2886",
+                    "width": 320,
+                    "height": 180
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/pW7FFUuScGHgberX91PnTF6OdIQm1BsZTNQ9_y-yq1Y.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=d2e642b47d5469b4f8672985d949923d",
+                    "width": 640,
+                    "height": 360
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/pW7FFUuScGHgberX91PnTF6OdIQm1BsZTNQ9_y-yq1Y.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;s=43b4b4e6ee7e0353ea4d5c36426e76ec",
+                    "width": 960,
+                    "height": 540
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/pW7FFUuScGHgberX91PnTF6OdIQm1BsZTNQ9_y-yq1Y.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;s=a06731bc59caaa6188b9c384285def15",
+                    "width": 1080,
+                    "height": 607
+                  }
+                ],
+                "variants": {},
+                "id": "5TWCh1FxyiW53U157dHsJRUsNOOGGtDF9IY4e2lrrHE"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8prylu",
+          "report_reasons": null,
+          "author": "isincredible",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": false,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8prylu/surveillance_drones_easier_to_get_widespread_use/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://qz.com/1299947/this-is-the-week-that-the-drone-surveillance-state-became-real/",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1528540393.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "TEDx Talk on ML Bias and Ethics in Healthcare",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 105,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8oaagl",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 2,
+          "domain": "youtube.com",
+          "media_embed": {
+            "content": "&lt;iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/4oPpSFp87iE?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen&gt;&lt;/iframe&gt;",
+            "width": 600,
+            "scrolling": false,
+            "height": 338
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": {
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "title": "Artificial Intelligence in Healthcare - The Need for Ethics | Varoon Mathur | TEDxUBC",
+              "type": "video",
+              "html": "&lt;iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/4oPpSFp87iE?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen&gt;&lt;/iframe&gt;",
+              "author_name": "TEDx Talks",
+              "height": 338,
+              "width": 600,
+              "version": "1.0",
+              "thumbnail_width": 480,
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/4oPpSFp87iE/hqdefault.jpg",
+              "thumbnail_height": 360,
+              "author_url": "https://www.youtube.com/user/TEDxTalks"
+            },
+            "type": "youtube.com"
+          },
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {
+            "content": "&lt;iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/4oPpSFp87iE?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen&gt;&lt;/iframe&gt;",
+            "width": 600,
+            "scrolling": false,
+            "media_domain_url": "https://www.redditmedia.com/mediaembed/8oaagl",
+            "height": 338
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 2,
+          "approved_by": null,
+          "thumbnail": "https://b.thumbs.redditmedia.com/FIJ1L7RnCK2fFEhhkHfEZ6pSEcrxSFADdPRLysqz6iQ.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "rich:video",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1528077123.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_1hogne4z",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/kR2VtqBDwkDwsyOtE3BGLNzR62CpLrTI9Ujy1YCJYLY.jpg?s=e7319d1c7f9e85d52869d622a9823e96",
+                  "width": 480,
+                  "height": 360
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/kR2VtqBDwkDwsyOtE3BGLNzR62CpLrTI9Ujy1YCJYLY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=1ee0a83871dba6eb58a8f36515b01741",
+                    "width": 108,
+                    "height": 81
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/kR2VtqBDwkDwsyOtE3BGLNzR62CpLrTI9Ujy1YCJYLY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=97fea28844bd8cd785763cbcf8debd4d",
+                    "width": 216,
+                    "height": 162
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/kR2VtqBDwkDwsyOtE3BGLNzR62CpLrTI9Ujy1YCJYLY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=14db34acc0c511fb8e711186fa1600b4",
+                    "width": 320,
+                    "height": 240
+                  }
+                ],
+                "variants": {},
+                "id": "2JNXFzh6phY6E86GpUr5tg3OGbnHv3cqnTmwsrF_ATc"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8oaagl",
+          "report_reasons": null,
+          "author": "GeneralAddendum",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8oaagl/tedx_talk_on_ml_bias_and_ethics_in_healthcare/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.youtube.com/watch?v=4oPpSFp87iE",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1528048323.0,
+          "media": {
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "title": "Artificial Intelligence in Healthcare - The Need for Ethics | Varoon Mathur | TEDxUBC",
+              "type": "video",
+              "html": "&lt;iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/4oPpSFp87iE?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen&gt;&lt;/iframe&gt;",
+              "author_name": "TEDx Talks",
+              "height": 338,
+              "width": 600,
+              "version": "1.0",
+              "thumbnail_width": 480,
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/4oPpSFp87iE/hqdefault.jpg",
+              "thumbnail_height": 360,
+              "author_url": "https://www.youtube.com/user/TEDxTalks"
+            },
+            "type": "youtube.com"
+          },
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Are you scared yet? Meet Norman, the psychopathic AI - BBC News",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 78,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8o0zs9",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 2,
+          "domain": "bbc.co.uk",
+          "media_embed": {},
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 2,
+          "approved_by": null,
+          "thumbnail": "https://b.thumbs.redditmedia.com/itJr_ZNY_IylTw_sYj2t9HivnqR_-UKtWuDWqRVgQoY.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1527980005.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_8pk3m",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/aM2r0Fjl-eGE33CJRonwlzWitEQnJ97nx2H7uZ1UsgM.jpg?s=8043206716943590b6c63c290a76f4d0",
+                  "width": 1024,
+                  "height": 576
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/aM2r0Fjl-eGE33CJRonwlzWitEQnJ97nx2H7uZ1UsgM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=4550fa05c61fcc5b075a25512697c21d",
+                    "width": 108,
+                    "height": 60
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/aM2r0Fjl-eGE33CJRonwlzWitEQnJ97nx2H7uZ1UsgM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=2c58b05624b48dd4c04389d529d6436b",
+                    "width": 216,
+                    "height": 121
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/aM2r0Fjl-eGE33CJRonwlzWitEQnJ97nx2H7uZ1UsgM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=beebc14d7fd6e0bb9ecc4491da188593",
+                    "width": 320,
+                    "height": 180
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/aM2r0Fjl-eGE33CJRonwlzWitEQnJ97nx2H7uZ1UsgM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=25428d91e84459fda602f72ced78e8b1",
+                    "width": 640,
+                    "height": 360
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/aM2r0Fjl-eGE33CJRonwlzWitEQnJ97nx2H7uZ1UsgM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;s=eddfaf2d02201be20649de86aadc8755",
+                    "width": 960,
+                    "height": 540
+                  }
+                ],
+                "variants": {},
+                "id": "x0RHfdTXJzw73MACKCMt2u1_XdNk8nfWllKp2wgcMgA"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8o0zs9",
+          "report_reasons": null,
+          "author": "The_Ebb_and_Flow",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": false,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8o0zs9/are_you_scared_yet_meet_norman_the_psychopathic/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.bbc.co.uk/news/technology-44040008",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1527951205.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Artificial Intelligence and Its Implications for Future Suffering \u2013 Foundational Research Institute",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 103,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8nusmg",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 5,
+          "domain": "foundational-research.org",
+          "media_embed": {},
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 5,
+          "approved_by": null,
+          "thumbnail": "https://b.thumbs.redditmedia.com/4tsg9RqtwR7osCkeba27FhCXgn5aCv-V9Eeu-bdsA-c.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1527910643.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_8pk3m",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/qhekcyhNHQgvHNx85Ka-ugNrDZvbQTMocQR7fWDDOj0.jpg?s=372ea24d017d3f3f142e93bd5752a59e",
+                  "width": 640,
+                  "height": 471
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/qhekcyhNHQgvHNx85Ka-ugNrDZvbQTMocQR7fWDDOj0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=bbb898f8d1d9c9b71ad13f3e97ecd342",
+                    "width": 108,
+                    "height": 79
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/qhekcyhNHQgvHNx85Ka-ugNrDZvbQTMocQR7fWDDOj0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=228576966f3452dc69f07957b2cd510e",
+                    "width": 216,
+                    "height": 158
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/qhekcyhNHQgvHNx85Ka-ugNrDZvbQTMocQR7fWDDOj0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=f66a93fa02e1f73606ca2da9ecaee165",
+                    "width": 320,
+                    "height": 235
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/qhekcyhNHQgvHNx85Ka-ugNrDZvbQTMocQR7fWDDOj0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=0de4c550e55196ed0e4b803a2c4339b1",
+                    "width": 640,
+                    "height": 471
+                  }
+                ],
+                "variants": {},
+                "id": "unAcGtV2WDZUi_TKM_GIzjE9Y1ixEOGlXBRyRtVPWhs"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8nusmg",
+          "report_reasons": null,
+          "author": "The_Ebb_and_Flow",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8nusmg/artificial_intelligence_and_its_implications_for/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://foundational-research.org/artificial-intelligence-and-its-implications-for-future-suffering",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1527881843.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "Yeah, so it's not happening only in China.\nhttps://www.theverge.com/platform/amp/2018/5/22/17379968/amazon-rekognition-facial-recognition-surveillance-aclu\n\nShould it be framed as individual freedom vs society safety? What did we learn from \"human surveillance\" that we should be applying to \"machine surveillance\"?",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Is mass surveillance ethical?",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8lbev2",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 7,
+          "domain": "self.AIethics",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 7,
+          "approved_by": null,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "self",
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1527036047.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_1byf4lna",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Yeah, so it&amp;#39;s not happening only in China.\n&lt;a href=\"https://www.theverge.com/platform/amp/2018/5/22/17379968/amazon-rekognition-facial-recognition-surveillance-aclu\"&gt;https://www.theverge.com/platform/amp/2018/5/22/17379968/amazon-rekognition-facial-recognition-surveillance-aclu&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Should it be framed as individual freedom vs society safety? What did we learn from &amp;quot;human surveillance&amp;quot; that we should be applying to &amp;quot;machine surveillance&amp;quot;?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/lhEfHJsviHsG3Wn__yHwM8Pwn2bPivX5UPJHM_HD2qA.jpg?s=2381aca99087c112e48bf71a62a2c92c",
+                  "width": 1400,
+                  "height": 933
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/lhEfHJsviHsG3Wn__yHwM8Pwn2bPivX5UPJHM_HD2qA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=5b8c7971c18c354a2fc3a0040be4c194",
+                    "width": 108,
+                    "height": 71
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/lhEfHJsviHsG3Wn__yHwM8Pwn2bPivX5UPJHM_HD2qA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=07302110b8a8c1b745313989bf21ec8f",
+                    "width": 216,
+                    "height": 143
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/lhEfHJsviHsG3Wn__yHwM8Pwn2bPivX5UPJHM_HD2qA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=caef8ec5352bfe0d1966d8ff90420224",
+                    "width": 320,
+                    "height": 213
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/lhEfHJsviHsG3Wn__yHwM8Pwn2bPivX5UPJHM_HD2qA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=21931f4cbbbd0f64dd7b4e04f3a6d5d2",
+                    "width": 640,
+                    "height": 426
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/lhEfHJsviHsG3Wn__yHwM8Pwn2bPivX5UPJHM_HD2qA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;s=a176b912a77b6a80a463d7b55fc30c21",
+                    "width": 960,
+                    "height": 639
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/lhEfHJsviHsG3Wn__yHwM8Pwn2bPivX5UPJHM_HD2qA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;s=ddaaeca5f118b9ae7c4dbb66c792d0b1",
+                    "width": 1080,
+                    "height": 719
+                  }
+                ],
+                "variants": {},
+                "id": "JjX5LJL4zOszz6Ed9K1_JZLVxqauz2V_CmDFlpUxlEA"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8lbev2",
+          "report_reasons": null,
+          "author": "isincredible",
+          "num_crossposts": 0,
+          "num_comments": 5,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8lbev2/is_mass_surveillance_ethical/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.reddit.com/r/AIethics/comments/8lbev2/is_mass_surveillance_ethical/",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1527007247.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Opinion: Googlers resigning over a Pentagon contract aren't making the 'ethical stand' you think",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 105,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8k19gk",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 2,
+          "domain": "sofrep.com",
+          "media_embed": {},
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 2,
+          "approved_by": null,
+          "thumbnail": "https://b.thumbs.redditmedia.com/Jt1kb7xN8xfhFcAb5TnnYi_46BsW7cgPrkgq5b6Tr5I.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1526558559.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_12s0qt",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/gCmDEy6IHLDK6CYPVZ1xn-ZZ9Tb9vfYchChflQ1nfUg.jpg?s=30b784a36f7f01ecdf833d6b4b9be585",
+                  "width": 800,
+                  "height": 600
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/gCmDEy6IHLDK6CYPVZ1xn-ZZ9Tb9vfYchChflQ1nfUg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=300342c5cbc90ff789c6b2440a951539",
+                    "width": 108,
+                    "height": 81
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/gCmDEy6IHLDK6CYPVZ1xn-ZZ9Tb9vfYchChflQ1nfUg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=03cb953e075d1860a3cf977b6bf10bc1",
+                    "width": 216,
+                    "height": 162
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/gCmDEy6IHLDK6CYPVZ1xn-ZZ9Tb9vfYchChflQ1nfUg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=4e2bf4a418cad74c105a20fd5ddf5e3e",
+                    "width": 320,
+                    "height": 240
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/gCmDEy6IHLDK6CYPVZ1xn-ZZ9Tb9vfYchChflQ1nfUg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=00538574da92d4e21559300d3d82aaf3",
+                    "width": 640,
+                    "height": 480
+                  }
+                ],
+                "variants": {},
+                "id": "TuWfKuSb1n_eXTdYZJkGSwLKS7udy7xU5Sl2S9wfcKY"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8k19gk",
+          "report_reasons": null,
+          "author": "TheWrockBrother",
+          "num_crossposts": 0,
+          "num_comments": 1,
+          "send_replies": false,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8k19gk/opinion_googlers_resigning_over_a_pentagon/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://sofrep.com/103314/opinion-googlers-resigning-over-a-pentagon-contract-arent-making-the-ethical-stand-you-think/",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1526529759.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Benevolent Artificial Anti-Natalism (BAAN) by Thomas Metzinger",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8jtnt5",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 6,
+          "domain": "edge.org",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 6,
+          "approved_by": null,
+          "thumbnail": "default",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1526492919.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_8pk3m",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8jtnt5",
+          "report_reasons": null,
+          "author": "The_Ebb_and_Flow",
+          "num_crossposts": 0,
+          "num_comments": 4,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8jtnt5/benevolent_artificial_antinatalism_baan_by_thomas/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.edge.org/conversation/thomas_metzinger-benevolent-artificial-anti-natalism-baan",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1526464119.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "How Might Artificial Intelligence Affect the Risk of Nuclear War?",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 104,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8f6uor",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 3,
+          "domain": "rand.org",
+          "media_embed": {},
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 3,
+          "approved_by": null,
+          "thumbnail": "https://b.thumbs.redditmedia.com/mJcLjFfWGi7neQwFfJYpzaR54udY8Me8Oqz2THdKTOg.jpg",
+          "edited": false,
+          "author_flair_css_class": "csgrad ",
+          "author_flair_richtext": [
+            {
+              "e": "text",
+              "t": "software engineering"
+            }
+          ],
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1524811291.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_h7dy5pn",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "richtext",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/-vs79ylLKOYqj-FX_kde5iuoHYc3jfxlGExpULiYLPo.jpg?s=7096668cb2072b634f187e9a971c14f9",
+                  "width": 1608,
+                  "height": 1200
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/-vs79ylLKOYqj-FX_kde5iuoHYc3jfxlGExpULiYLPo.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=ef876e9bc988cd9ab189ce4b57c4a2ba",
+                    "width": 108,
+                    "height": 80
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/-vs79ylLKOYqj-FX_kde5iuoHYc3jfxlGExpULiYLPo.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=241dadce5e392c8b2a995a587dfe1a75",
+                    "width": 216,
+                    "height": 161
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/-vs79ylLKOYqj-FX_kde5iuoHYc3jfxlGExpULiYLPo.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=e058c8b0e7f6e506ce44f663d16ea0eb",
+                    "width": 320,
+                    "height": 238
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/-vs79ylLKOYqj-FX_kde5iuoHYc3jfxlGExpULiYLPo.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=c44d7291b7c45bdb966175613db18536",
+                    "width": 640,
+                    "height": 477
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/-vs79ylLKOYqj-FX_kde5iuoHYc3jfxlGExpULiYLPo.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;s=db50fa04ce8ccf8831f063110395a07d",
+                    "width": 960,
+                    "height": 716
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/-vs79ylLKOYqj-FX_kde5iuoHYc3jfxlGExpULiYLPo.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;s=9c2d5dfb7e945d10650624083ce5b31e",
+                    "width": 1080,
+                    "height": 805
+                  }
+                ],
+                "variants": {},
+                "id": "2bSfcWo7YAlvl556s_0WoZCyqErNpve4sLhMA4pz2mY"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": "software engineering",
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8f6uor",
+          "report_reasons": null,
+          "author": "UmamiTofu",
+          "num_crossposts": 0,
+          "num_comments": 1,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8f6uor/how_might_artificial_intelligence_affect_the_risk/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.rand.org/pubs/perspectives/PE296.html",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1524782491.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "When a private organization develops a machine (whether driver-less car or genuine AI) that requires ethical stipulations to work in society, and they do not ask society\u2019s input, they establish themselves as a dangerous authority. Society at large already determines right and wrong; this should extend to the machines that will only come to have a greater and greater impact on our lives.\n\nWe need to open source machine ethics.\n\nThe trick is overcoming the original problem: those with technical expertise making ethical decisions for others without that know-how. The collaborative interface needs to be relatively easy or many won\u2019t bother learning to use it. It needs to be decentralized, human readable, censorship-resistant. A place to start might be a Wiki made up of the ethics, axioms and \u201ccommon sense\u201d of society but written in a fourth generation programming language very close to human semantics.\n\nToday most people generally consider Wikipedia to be a solid approximation of the truth; if we could have that level of collaboration for a machine-readable code of majority-agreed ethical tenets I think we might avoid the power differential that automation (and beyond) represents, preventing serious ethical risk for our species.",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Who gets to teach machines right and wrong? We Should.",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_8aalz7",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 2,
+          "domain": "self.AIethics",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 2,
+          "approved_by": null,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1523058604.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_12dn0zb3",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;When a private organization develops a machine (whether driver-less car or genuine AI) that requires ethical stipulations to work in society, and they do not ask society\u2019s input, they establish themselves as a dangerous authority. Society at large already determines right and wrong; this should extend to the machines that will only come to have a greater and greater impact on our lives.&lt;/p&gt;\n\n&lt;p&gt;We need to open source machine ethics.&lt;/p&gt;\n\n&lt;p&gt;The trick is overcoming the original problem: those with technical expertise making ethical decisions for others without that know-how. The collaborative interface needs to be relatively easy or many won\u2019t bother learning to use it. It needs to be decentralized, human readable, censorship-resistant. A place to start might be a Wiki made up of the ethics, axioms and \u201ccommon sense\u201d of society but written in a fourth generation programming language very close to human semantics.&lt;/p&gt;\n\n&lt;p&gt;Today most people generally consider Wikipedia to be a solid approximation of the truth; if we could have that level of collaboration for a machine-readable code of majority-agreed ethical tenets I think we might avoid the power differential that automation (and beyond) represents, preventing serious ethical risk for our species.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "8aalz7",
+          "report_reasons": null,
+          "author": "machineethicsthrowaw",
+          "num_crossposts": 0,
+          "num_comments": 6,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/8aalz7/who_gets_to_teach_machines_right_and_wrong_we/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.reddit.com/r/AIethics/comments/8aalz7/who_gets_to_teach_machines_right_and_wrong_we/",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1523029804.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Golden - Nick Bostrom (2004)",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_89yfvf",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 6,
+          "domain": "nickbostrom.com",
+          "media_embed": {},
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 6,
+          "approved_by": null,
+          "thumbnail": "https://b.thumbs.redditmedia.com/9_xGIm-ADyN3KtynjZKXm1MV-qnIYnx8uWpOenRCphs.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1522951370.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_8pk3m",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/0QhWYwpkbiPikjnnE_-O8MhiL0MfM6P2jcJCkCnywpU.jpg?s=99d54b6589b24c088b153254d74732bd",
+                  "width": 178,
+                  "height": 231
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/0QhWYwpkbiPikjnnE_-O8MhiL0MfM6P2jcJCkCnywpU.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=c069026c7000680426034582d5159946",
+                    "width": 108,
+                    "height": 140
+                  }
+                ],
+                "variants": {},
+                "id": "EDCmG4dfsWevnHlAXgUc3OycamCXVxhK1jxb9m9aYKM"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "89yfvf",
+          "report_reasons": null,
+          "author": "The_Ebb_and_Flow",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": false,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/89yfvf/golden_nick_bostrom_2004/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://nickbostrom.com/fable/retriever.html",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1522922570.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "The moral psychology of value sensitive design: the methodological issues of moral intuitions for responsible innovation",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_890ajj",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 3,
+          "domain": "tandfonline.com",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 3,
+          "approved_by": null,
+          "thumbnail": "default",
+          "edited": false,
+          "author_flair_css_class": "csgrad ",
+          "author_flair_richtext": [
+            {
+              "e": "text",
+              "t": "software engineering"
+            }
+          ],
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1522712810.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_h7dy5pn",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "richtext",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": "software engineering",
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "890ajj",
+          "report_reasons": null,
+          "author": "UmamiTofu",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/890ajj/the_moral_psychology_of_value_sensitive_design/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.tandfonline.com/doi/pdf/10.1080/23299460.2018.1457401?needAccess=true",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1522684010.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Meaningful Human Control over Autonomous Systems: A Philosophical Account",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_847g3t",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 4,
+          "domain": "frontiersin.org",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 4,
+          "approved_by": null,
+          "thumbnail": "default",
+          "edited": false,
+          "author_flair_css_class": "csgrad ",
+          "author_flair_richtext": [
+            {
+              "e": "text",
+              "t": "software engineering"
+            }
+          ],
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1521002280.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_h7dy5pn",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "richtext",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": "software engineering",
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "847g3t",
+          "report_reasons": null,
+          "author": "UmamiTofu",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/847g3t/meaningful_human_control_over_autonomous_systems/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.frontiersin.org/articles/10.3389/frobt.2018.00015/full",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1520973480.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Self-teaching algorithms could collude in ways that are impossible to detect (about antitrust)",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 73,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_824cbm",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 8,
+          "domain": "politico.eu",
+          "media_embed": {},
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 8,
+          "approved_by": null,
+          "thumbnail": "https://b.thumbs.redditmedia.com/exA4hrZUc0S_KAWir1P0hGa1lWgLOb7JZkeLdwcsJJA.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1520264831.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_pq117",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/gxkocbA6RcGSoMiZ7VCI05HthA9dkpnBjJwie7sXdLM.jpg?s=89b898dddb07b584c3774a02ab3a9188",
+                  "width": 1200,
+                  "height": 628
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/gxkocbA6RcGSoMiZ7VCI05HthA9dkpnBjJwie7sXdLM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=0df75adde4f5cbfde75338a7e4610978",
+                    "width": 108,
+                    "height": 56
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/gxkocbA6RcGSoMiZ7VCI05HthA9dkpnBjJwie7sXdLM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=24bf3c990ebb09519fbf20c63af7a0ff",
+                    "width": 216,
+                    "height": 113
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/gxkocbA6RcGSoMiZ7VCI05HthA9dkpnBjJwie7sXdLM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=7a39c14687b27691ac8fb811f62f53f8",
+                    "width": 320,
+                    "height": 167
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/gxkocbA6RcGSoMiZ7VCI05HthA9dkpnBjJwie7sXdLM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=1bbf3de05e84c500b63e0825b4b52b64",
+                    "width": 640,
+                    "height": 334
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/gxkocbA6RcGSoMiZ7VCI05HthA9dkpnBjJwie7sXdLM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;s=bcba810be149d72175b7ba3162fbd154",
+                    "width": 960,
+                    "height": 502
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/gxkocbA6RcGSoMiZ7VCI05HthA9dkpnBjJwie7sXdLM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;s=6ba02a568171b0fb8abb4ee936fac22c",
+                    "width": 1080,
+                    "height": 565
+                  }
+                ],
+                "variants": {},
+                "id": "vKbspSp-TXVgtgNmIhnIIQQA3D5qLsyUd3whSwYLyOw"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "824cbm",
+          "report_reasons": null,
+          "author": "ohdon",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/824cbm/selfteaching_algorithms_could_collude_in_ways/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.politico.eu/article/trust-busting-in-the-age-of-ai/",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1520236031.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "AI ripe for exploitation, experts warn",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 78,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_7z3rv7",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 5,
+          "domain": "bbc.co.uk",
+          "media_embed": {},
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 5,
+          "approved_by": null,
+          "thumbnail": "https://a.thumbs.redditmedia.com/FHgKvmakPp92Ob9Y6qukZSWoz-ZEnbJ0MzIW9PiWvo8.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1519226308.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_8pk3m",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/LjstwpmFmfnK63NUsWRANpnT-NrYZb_RZcUXqGEUHf8.jpg?s=715690c95d255953c8e99ad2615cc575",
+                  "width": 1024,
+                  "height": 576
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/LjstwpmFmfnK63NUsWRANpnT-NrYZb_RZcUXqGEUHf8.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=5ca6764173cb78d9faa8a0cb0b1d7c21",
+                    "width": 108,
+                    "height": 60
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/LjstwpmFmfnK63NUsWRANpnT-NrYZb_RZcUXqGEUHf8.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=25f1f7aa40fac10de7f01b09ac5435d6",
+                    "width": 216,
+                    "height": 121
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/LjstwpmFmfnK63NUsWRANpnT-NrYZb_RZcUXqGEUHf8.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=e9c78f3716fd293b88f37756cbf64d2d",
+                    "width": 320,
+                    "height": 180
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/LjstwpmFmfnK63NUsWRANpnT-NrYZb_RZcUXqGEUHf8.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=67b1555bed4ea92ffdb4c06b3aa29c9a",
+                    "width": 640,
+                    "height": 360
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/LjstwpmFmfnK63NUsWRANpnT-NrYZb_RZcUXqGEUHf8.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;s=d8fc58b32a48f519f0e8db23fe6ddb54",
+                    "width": 960,
+                    "height": 540
+                  }
+                ],
+                "variants": {},
+                "id": "IrqnRaH8po2ssyJ8r2tNKPxmKtRTzoE1cyEVuM-cxAw"
+              }
+            ],
+            "enabled": false
+          },
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "7z3rv7",
+          "report_reasons": null,
+          "author": "The_Ebb_and_Flow",
+          "num_crossposts": 0,
+          "num_comments": 2,
+          "send_replies": false,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/7z3rv7/ai_ripe_for_exploitation_experts_warn/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "http://www.bbc.co.uk/news/technology-43127533",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1519197508.0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "AIethics",
+          "selftext": "I'm doing a prospectus for research at the University of Memphis for my MA program, and I am looking into the ethics of using Machine Learning and AI in usage of entertainment and advertisement. I am developing a set of questions and would definitely enjoy talking to an expert in the field or anyone who has done research in this direction.\n\nMy background: \n\nSoftware developer and 3D Artist. BFA Animation, Savannah College of Art and Design 2011. MA Candidate, Film and Digital Media, University of Memphis 2019. \n\n\n\n\n",
+          "user_reports": [],
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Machine Learning and Media",
+          "link_flair_richtext": [],
+          "subreddit_name_prefixed": "r/AIethics",
+          "hidden": false,
+          "pwls": null,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "parent_whitelist_status": null,
+          "hide_score": false,
+          "name": "t3_7u1ag1",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 4,
+          "domain": "self.AIethics",
+          "media_embed": {},
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "category": null,
+          "secure_media_embed": {},
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 4,
+          "approved_by": null,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [],
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1517350617.0,
+          "link_flair_type": "text",
+          "wls": null,
+          "author_id": "t2_e6t8v",
+          "post_categories": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "contest_mode": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m doing a prospectus for research at the University of Memphis for my MA program, and I am looking into the ethics of using Machine Learning and AI in usage of entertainment and advertisement. I am developing a set of questions and would definitely enjoy talking to an expert in the field or anyone who has done research in this direction.&lt;/p&gt;\n\n&lt;p&gt;My background: &lt;/p&gt;\n\n&lt;p&gt;Software developer and 3D Artist. BFA Animation, Savannah College of Art and Design 2011. MA Candidate, Film and Digital Media, University of Memphis 2019. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": null,
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": false,
+          "pinned": false,
+          "over_18": false,
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "rte_mode": "markdown",
+          "visited": false,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_3eyq1",
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "id": "7u1ag1",
+          "report_reasons": null,
+          "author": "Aemnas",
+          "num_crossposts": 0,
+          "num_comments": 0,
+          "send_replies": true,
+          "mod_reports": [],
+          "author_flair_text_color": null,
+          "permalink": "/r/AIethics/comments/7u1ag1/machine_learning_and_media/",
+          "whitelist_status": null,
+          "stickied": false,
+          "url": "https://www.reddit.com/r/AIethics/comments/7u1ag1/machine_learning_and_media/",
+          "subreddit_subscribers": 1934,
+          "created_utc": 1517321817.0,
+          "media": null,
+          "is_video": false
+        }
+      }
+    ],
+    "after": "t3_7u1ag1",
+    "before": null
+  }
 }
