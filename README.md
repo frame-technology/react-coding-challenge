@@ -29,7 +29,7 @@ Here's a potential layout for your app:
 
 Although this is a basic exercise, we'll be looking for **simple, well-designed and tested code** in the submission.
 
-Submit your solution as a pull request on this repository.  Please include a `README` with setup instructions, and any tests or other documentation you created as part of your solution.
+Submit your solution by tarballing up your repo and emailing it to jobs@frame.ai.  Please include a `README` with setup instructions, and any tests or other documentation you created as part of your solution.
 
 Also, add the following info to your `README`:
 
