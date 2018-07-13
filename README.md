@@ -20,7 +20,7 @@ For example, if I entered `cats` into your app I would see your novel display of
 
 Here's a potential layout for your app:
 
-![Wireframe](screens/wireframe.png?raw=true)
+![Wireframe](screens/wireframe.png?raw=true){:height="50%" width="50%"}
 
 - A new subreddit could be downloaded based on all changes to the input field, a timer, a submit button, or anything else you choose.
 - The site should display three comments at a time, providing pagination buttons (or another method) to move through the longer list.
