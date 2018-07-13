@@ -39,7 +39,7 @@ Also, add the following info to your `README`:
 
 ## Details
 
-All subreddits can be read by appending `.json` to the end of the url. So the Cats subreddit at: `https://www.reddit.com/r/cats/` can't be consumed as a json blob at `https://www.reddit.com/r/cats.json` .  A sample blob is provided as [`feed/sample.json`](feed/sample.json).
+All subreddits can be read by appending `.json` to the end of the url. So the Cats subreddit at: `https://www.reddit.com/r/cats/` can be consumed as a json blob at `https://www.reddit.com/r/cats.json` .  A sample blob is provided as [`feed/sample.json`](feed/sample.json).
 
 The deployable solution should be built in a folder named **`dist`** with an entry point file of **`index.html`**.
 
@@ -56,6 +56,10 @@ You can assume that you do not have to support legacy browsers without features 
 ### What language, framework, build tool... should I use?
 
 You may use whatever you like as long as the solution is built using [React](https://facebook.github.io/react/).
+
+### What do I do if I have questions or find the instructions unclear?
+
+Head over to our [website](https://frame.ai) and start a conversation with us right on the page. We'll get back to you right away if it's during business hours, otherwise feel free to send an email to jobs@frame.ai
 
 
 ## Useful Links
