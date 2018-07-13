@@ -22,12 +22,14 @@ Here's a potential layout for your app:
 
 ![Wireframe](screens/wireframe.png?raw=true)
 
+- A new subreddit could be downloaded based on all changes to the input field, a timer, a submit button, or anything else you choose.
+- The site should display three comments at a time, providing pagination buttons (or another method) to move through the longer list.
 
 ## Solution Format
 
 Although this is a basic exercise, we'll be looking for **simple, well-designed and tested code** in the submission.
 
-Please include a `README` with setup instructions, and any tests or other documentation you created as part of your solution.
+Submit your solution as a pull request on this repository.  Please include a `README` with setup instructions, and any tests or other documentation you created as part of your solution.
 
 Also, add the following info to your `README`:
 
