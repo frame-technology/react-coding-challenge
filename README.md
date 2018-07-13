@@ -14,11 +14,16 @@ This challenge is expected to take about 1-3 hours.
 
 ## The Challenge
 
-It's a pretty simple [subreddit](https://en.oxforddictionaries.com/definition/subreddit) viewer. You will allow a user to enter a subreddit name, and then you will render the top entries of that subreddit stream.
+Your mission is to create a minimal single-page react app implementing a [subreddit](https://en.oxforddictionaries.com/definition/subreddit) viewer. You will allow a user to enter a subreddit name, and then you will render the top entries of that subreddit stream.
 
 For example, if I entered `cats` into your app I would see your novel display of the [cats subreddit feed](https://www.reddit.com/r/cats/). Using the provided screens as inspiration, you'll need to build a set of React components to render the app.  You'll also need to request a JSON feed, filter that data, and use the relevant fields.
 
+Here's a potential layout for your app:
 
+![Wireframe](screens/wireframe.png?raw=true)
+
+
+## Solution Format
 
 Although this is a basic exercise, we'll be looking for **simple, well-designed and tested code** in the submission.
 
@@ -32,6 +37,8 @@ Also, add the following info to your `README`:
 
 ## Details
 
+All subreddits can be read by appending `.json` to the end of the url. So the Cats subreddit at: `https://www.reddit.com/r/cats/` can't be consumed as a json blob at `https://www.reddit.com/r/cats.json` .  A sample blob is provided as [`feed/sample.json`](feed/sample.json).
+
 The deployable solution should be built in a folder named **`dist`** with an entry point file of **`index.html`**.
 
 Please create components for each part of the page (eg. header, content, footer, etc).
@@ -40,21 +47,6 @@ Assets are provided in the `assets` folder.
 The pages should also be usable (but not polished) on mobile devices.
 
 You can assume that you do not have to support legacy browsers without features such as `fetch` or `flexbox`.
-
-**Note**: all subreddits can be read by appending `.json` to the end of the url. So the Cats subreddit at: `https://www.reddit.com/r/cats/` can't be consumed as a json blob at `https://www.reddit.com/r/cats.json`
-
-### "Main" Page
-
-Refer to the [screens/1-home.jpg](./screens/1-home.jpg) screen.
-
-This will be your `index.html` screen.
-
-You will need to display a tile to capture what subreddit the user would like to view, and a set of tiles that render the results. The results should be concise and visually engaging.
-
-You will also need to handle the loading and error states, of fetching the JSON feed:
-
-* "Loading" state [screens/1.1-loading.jpg](./screens/1.1-loading.jpg)
-* "Error" state [screens/1.2-error.jpg](./screens/1.2-error.jpg)
 
 
 ## FAQ
