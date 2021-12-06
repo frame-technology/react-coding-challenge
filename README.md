@@ -5,18 +5,22 @@
 
 ## Overview
 
-To complete this challenge, you will need to write a simple [React](https://facebook.github.io/react/) web app, and provide us the source files to be built.
+The goal of this challenge is to showcase your ability to design and implement a simple [React](https://facebook.github.io/react/) web app.
 
-The purpose of this challenge is to assess your **skills and approach to composing a simple web app** given a set of screens and an API feed.  We will also assess the **generated HTML, CSS, and JS** output.
+We expect you will spend approximately 1 to 3 hours on this project.
 
-This challenge is expected to take about 1-3 hours.
+**We are looking for solutions that deliver a balance of quality user experience, effective component design, and project organization.**
+
+Our team will conduct a careful review of your submission, and if your it meets our evalulation criteria, then we will use it to guide a code-review style technical session where we learn more about your design and implementation choices and discuss techniques you might apply on a larger and more complex project.
+
+We value your time and appreciate your willingness to complete our code challenge.  Thank you.
 
 
 ## The Challenge
 
-Your mission is to create a minimal single-page react app implementing a [subreddit](https://en.oxforddictionaries.com/definition/subreddit) viewer. You will allow a user to enter a subreddit name, and then you will render the top entries of that subreddit stream.
+Your mission is to create a minimal single-page react app implementing a [subreddit](https://en.oxforddictionaries.com/definition/subreddit) viewer.  You will allow a user to enter a subreddit name, and then you will render the top entries of that subreddit stream.
 
-For example, if I entered `cats` into your app I would see your novel display of the [cats subreddit feed](https://www.reddit.com/r/cats/). Using the provided screens as inspiration, you'll need to build a set of React components to render the app.  You'll also need to request a JSON feed, filter that data, and use the relevant fields.
+For example, if I entered `cats` into your app I would see your novel display of the [cats subreddit feed](https://www.reddit.com/r/cats/).  Using the provided screens as inspiration, you'll need to build a set of React components to render the app.  You'll also need to request a JSON feed, filter that data, and use the relevant fields.
 
 Here's a potential layout for your app:
 
@@ -27,26 +31,27 @@ Here's a potential layout for your app:
 
 ## Solution Format
 
-Although this is a basic exercise, we'll be looking for **simple, well-designed and tested code** in the submission.
+Although this is a basic exercise, we'll be looking for **simple, well-designed, and tested code** in the submission.
 
-Submit your solution by tarballing up your repo and emailing it to jobs@frame.ai.  Please include a `README` with setup instructions, and any tests or other documentation you created as part of your solution.
+Submit your solution by emailing a tarball archive to jobs@frame.ai.  Please include a `README` with setup instructions, and any tests or other documentation you created as part of your solution.
 
 Also, add the following info to your `README`:
 
+* What did you focus on to create a quality user experience?
+* What is your component design and project organization methodology?
 * How did you decide which technologies to use as part of your solution?
 * Are there any improvements you could make to your submission?
-* What would you do differently if you were allocated more time?
+* What would you do differently with more time?
 
 ## Details
 
-All subreddits can be read by appending `.json` to the end of the url. So the Cats subreddit at: `https://www.reddit.com/r/cats/` can be consumed as a json blob at `https://www.reddit.com/r/cats.json` .  A sample blob is provided as [`feed/sample.json`](feed/sample.json).
+All subreddits can be read by appending `.json` to the end of the url.  So, the Cats subreddit at `https://www.reddit.com/r/cats/` can be consumed as a json blob at `https://www.reddit.com/r/cats.json`.  A sample blob is provided as [`feed/sample.json`](feed/sample.json).
 
-The deployable solution should be built in a folder named **`dist`** with an entry point file of **`index.html`**.
+A deployable solution should be built in a folder named **`dist`** with an entry point file of **`index.html`**.
 
-Please create components for each part of the page (eg. header, content, footer, etc).
 Assets are provided in the `assets` folder.
 
-The pages should also be usable (but not polished) on mobile devices.
+The pages should also be usable (but not necessarily polished) on mobile devices.
 
 You can assume that you do not have to support legacy browsers without features such as `fetch` or `flexbox`.
 
@@ -59,7 +64,7 @@ You may use whatever you like as long as the solution is built using [React](htt
 
 ### What do I do if I have questions or find the instructions unclear?
 
-Head over to our [website](https://frame.ai) and start a conversation with us right on the page. We'll get back to you right away if it's during business hours, otherwise feel free to send an email to jobs@frame.ai
+Head over to our [website](https://frame.ai) and start a conversation with us right on the page.  We'll get back to you right away if it's during business hours, otherwise feel free to send an email to jobs@frame.ai
 
 
 ## Useful Links
